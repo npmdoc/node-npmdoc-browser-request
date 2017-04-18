@@ -1,9 +1,14 @@
-# api documentation for  [browser-request (v0.3.3)](http://github.com/iriscouch/browser-request)  [![npm package](https://img.shields.io/npm/v/npmdoc-browser-request.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-browser-request) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-browser-request.svg)](https://travis-ci.org/npmdoc/node-npmdoc-browser-request)
+# npmdoc-browser-request
+
+#### api documentation for  [browser-request (v0.3.3)](http://github.com/iriscouch/browser-request)  [![npm package](https://img.shields.io/npm/v/npmdoc-browser-request.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-browser-request) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-browser-request.svg)](https://travis-ci.org/npmdoc/node-npmdoc-browser-request)
+
 #### Browser port of the Node.js 'request' package
 
-[![NPM](https://nodei.co/npm/browser-request.png?downloads=true)](https://www.npmjs.com/package/browser-request)
+[![NPM](https://nodei.co/npm/browser-request.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/browser-request)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-browser-request/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-browser-request_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-browser-request/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-browser-request/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-browser-request/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-browser-request/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-browser-request/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-browser-request/build/screenCapture.npmPackageListing.svg)
 
@@ -17,28 +22,23 @@
 
 {
     "author": {
-        "name": "Jason Smith",
-        "email": "jhs@iriscouch.com"
+        "name": "Jason Smith"
     },
     "bugs": {
         "url": "https://github.com/iriscouch/browser-request/issues"
     },
     "contributors": [
         {
-            "name": "Jason Smith Work",
-            "email": "jhs@iriscouch.com"
+            "name": "Jason Smith Work"
         },
         {
-            "name": "Jason Smith",
-            "email": "jason.h.smith@gmail.com"
+            "name": "Jason Smith"
         },
         {
-            "name": "maxogden",
-            "email": "max@maxogden.com"
+            "name": "maxogden"
         },
         {
-            "name": "Abbey Sparrow via Google",
-            "email": "abbeys@google.com"
+            "name": "Abbey Sparrow via Google"
         }
     ],
     "dependencies": {},
@@ -65,17 +65,14 @@
     ],
     "maintainers": [
         {
-            "name": "jhs",
-            "email": "jhs@iriscouch.com"
+            "name": "jhs"
         },
         {
-            "name": "maxogden",
-            "email": "max@maxogden.com"
+            "name": "maxogden"
         }
     ],
     "name": "browser-request",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/iriscouch/browser-request.git"
@@ -100,16 +97,6 @@
     "version": "0.3.3"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module browser-request](#apidoc.module.browser-request)
-
-
-
-# <a name="apidoc.module.browser-request"></a>[module browser-request](#apidoc.module.browser-request)
 
 
 
