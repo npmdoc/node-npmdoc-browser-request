@@ -1,6 +1,6 @@
 # npmdoc-browser-request
 
-#### api documentation for  [browser-request (v0.3.3)](http://github.com/iriscouch/browser-request)  [![npm package](https://img.shields.io/npm/v/npmdoc-browser-request.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-browser-request) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-browser-request.svg)](https://travis-ci.org/npmdoc/node-npmdoc-browser-request)
+#### basic api documentation for  [browser-request (v0.3.3)](http://github.com/iriscouch/browser-request)  [![npm package](https://img.shields.io/npm/v/npmdoc-browser-request.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-browser-request) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-browser-request.svg)](https://travis-ci.org/npmdoc/node-npmdoc-browser-request)
 
 #### Browser port of the Node.js 'request' package
 
@@ -94,7 +94,8 @@
             "ipad/6"
         ]
     },
-    "version": "0.3.3"
+    "version": "0.3.3",
+    "bin": {}
 }
 ```
 
